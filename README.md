@@ -1,2 +1,2 @@
 # FlutterMixUp
-Flutter+iOS+Android 混编demo
+iOS+Android 嵌入Flutter Module 混编demo

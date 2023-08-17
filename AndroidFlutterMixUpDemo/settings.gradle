@@ -32,3 +32,6 @@ evaluate(new File(                                                     // new
         settingsDir.parentFile,                                              // new
         'flutter_mix_up_demo/.android/include_flutter.groovy'                         // new
 ))
+
+include ':flutter_mix_up_demo'
+project(':flutter_mix_up_demo').projectDir = new File("../flutter_mix_up_demo")
